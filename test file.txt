@@ -1,1 +1,9 @@
 test file here
+next time upload use this command 
+
+git add .
+git commit -m "v1"
+git branch -M main
+git push -u origin main
+
+mistake file save 
